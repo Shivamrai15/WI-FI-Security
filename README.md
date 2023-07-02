@@ -6,7 +6,7 @@ In this project, the code will check whether the connected Wi-Fi is allowed base
 
 ## API Reference
 
-#### Get all items
+#### Get IP Address
 
 ```http
   https://ip-address-tracker-free.p.rapidapi.com/rapidapi/ip
